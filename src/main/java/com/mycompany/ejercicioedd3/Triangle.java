@@ -8,7 +8,6 @@ package com.mycompany.ejercicioedd3;
 public class Triangle {
     private float base;
     private float height;
-    private float errorVariable;
 
     public Triangle() {
         
