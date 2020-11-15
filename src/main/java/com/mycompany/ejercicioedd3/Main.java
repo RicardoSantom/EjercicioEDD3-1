@@ -11,6 +11,7 @@ import java.util.Scanner;
  * Calculates the area of a triangle.
  *
  * @author marcos
+ * Hola Marcos. Soy Ricardo. Aquí queda la prueba de que he podido modificar tu repositorio.
  */
 public class Main {
 
